@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "title": "lorem",
+      "body": "lorem ipsum",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "title": "Bahez",
+      "body": "Bahez ipsum",
+      "userId": 3,
+      "id": 2
+    }
+    
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "typicode",
+      "email": "user@example.com"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Uncatagorized"
+    }
+  ]
+}
